@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "652090209411",
+    "firebase_url": "https://ravolapp-default-rtdb.firebaseio.com",
+    "project_id": "ravolapp",
+    "storage_bucket": "ravolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652090209411:android:2007e631e4231a9a1097b6",
+        "android_client_info": {
+          "package_name": "com.gasmlangoni.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652090209411-48q25ac2t98g0apovh9mosh0553ga0c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mFaWZ11KWJdbJq1I2ZOfC4mfBGmMWO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652090209411-48q25ac2t98g0apovh9mosh0553ga0c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652090209411-gj8ujhf6uql5l1lv9sngtpnrvfqsh2h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gasmlangoni.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652090209411:android:0c1001b1d91092cc1097b6",
+        "android_client_info": {
+          "package_name": "com.ravoldriver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652090209411-48q25ac2t98g0apovh9mosh0553ga0c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mFaWZ11KWJdbJq1I2ZOfC4mfBGmMWO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652090209411-48q25ac2t98g0apovh9mosh0553ga0c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652090209411-gj8ujhf6uql5l1lv9sngtpnrvfqsh2h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gasmlangoni.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

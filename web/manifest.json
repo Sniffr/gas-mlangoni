@@ -1,0 +1,23 @@
+{
+    "name": "ravol",
+    "short_name": "ravol app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A9849",
+    "theme_color": "#2A9849",
+    "description": "Ravol is an On-Demand Service Provider, Ravol. Ravol Food. Ravol Grocery, Ravol eCommerce, Ravol Pharmacy & Ravol Parcel service, Ravol App, Ravol Services",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

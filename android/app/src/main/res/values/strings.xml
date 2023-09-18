@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ravol</string>
+    <string name="facebook_app_id">45213161999626499</string>
+    <string name="fb_login_protocol_scheme">fb45299131619626499</string>
+</resources>
